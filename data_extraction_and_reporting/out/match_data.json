@@ -1,0 +1,156 @@
+{
+  "source_url": "https://www.livesport.cz/zapas/fotbal/sparta-praha-6qA358jH/zbrojovka-brno-4d5TT6i5/?mid=StyIyb9D#/prehled-zapasu/prehled-zapasu",
+  "match_id": "StyIyb9D",
+  "home_team": "Sparta Praha",
+  "away_team": "Zbrojovka Brno",
+  "score_home": 3,
+  "score_away": 1,
+  "kickoff_or_date_text": "02.04.2023 16:00",
+  "competition_text": null,
+  "events": [
+    {
+      "minute": "17'",
+      "side": "away",
+      "event_type": "goal",
+      "player": "Řezníček J.",
+      "detail": null,
+      "raw_text": "Je to gól! Šimon Falta vyslal přesný centr do pokutového území, kde se nejlépe zorientoval Jakub Řezníček (Zbrojovka Brno) a doklepl míč do pravé části branky. Skóre je 0:1."
+    },
+    {
+      "minute": "20'",
+      "side": "home",
+      "event_type": "goal",
+      "player": "Krejčí L.",
+      "detail": "assist: Kairinen K.",
+      "raw_text": "Ladislav Krejčí (Sparta Praha) ukázal svůj cit pro gól, když si pro sebe vybojoval místo po rohovém kopu a z bezprostřední blízkosti míč hlavou neomylně uklidil do levého dolního rohu branky. Upravil tak skóre zápasu na 1:1."
+    },
+    {
+      "minute": "24'",
+      "side": "home",
+      "event_type": "goal",
+      "player": "Kuchta J.",
+      "detail": "assist: Sørensen A.",
+      "raw_text": "Kvalitní centr právě zužitkoval Jan Kuchta (Sparta Praha). Přesnou a razantní střelou po zemi k levé tyči překonal brankáře soupeře."
+    },
+    {
+      "minute": "28'",
+      "side": "away",
+      "event_type": "yellow_card",
+      "player": "Hlavica J.",
+      "detail": "reason: Hrubost",
+      "raw_text": "Jan Hlavica (Zbrojovka Brno) poslal soupeře svým zákrokem k zemi. Rozhodčí vše ohodnocuje žlutou kartou."
+    },
+    {
+      "minute": "39'",
+      "side": "home",
+      "event_type": "disallowed_goal",
+      "player": "Čvančara T.",
+      "detail": null,
+      "raw_text": "Gólová radost hráčů týmu Sparta Praha trvala jen krátce. Rozhodčí s pomocí VAR zjistil, že brance předcházela ruka."
+    },
+    {
+      "minute": "49'",
+      "side": "home",
+      "event_type": "goal",
+      "player": "Wiesner T.",
+      "detail": "assist: Čvančara T.",
+      "raw_text": "Gól! Tomáš Wiesner (Sparta Praha) se ve vápně dostal k přihrávce vzduchem, kterou vyslal Tomáš Čvančara, a zužitkoval ji nejlépe jak mohl. Pohotově vystřelil do pravého spodního rohu a upravuje skóre na 3:1."
+    },
+    {
+      "minute": "52'",
+      "side": "away",
+      "event_type": "yellow_card",
+      "player": "Divíšek J.",
+      "detail": "reason: Faul",
+      "raw_text": "Za předchozí faul je Josef Divíšek (Zbrojovka Brno) potrestán žlutou kartou."
+    },
+    {
+      "minute": "56'",
+      "side": "home",
+      "event_type": "substitution",
+      "player": "Haraslín L.",
+      "detail": "sub_in: Minchev M.; sub_out: Haraslín L.",
+      "raw_text": "Na řadu přišlo střídání. Lukáš Haraslín opustil hřiště, do hry naopak naskočil Martin Minchev (Sparta Praha)."
+    },
+    {
+      "minute": "65'",
+      "side": "home",
+      "event_type": "yellow_card",
+      "player": "Kairinen K.",
+      "detail": "reason: Faul",
+      "raw_text": "Kaan Kairinen (Sparta Praha) se nemůže divit. Za podobné zákroky se totiž karta dávat musí. Pro uklidnění vášní na hřišti je to od arbitra dobrá volba."
+    },
+    {
+      "minute": "71'",
+      "side": "home",
+      "event_type": "substitution",
+      "player": "Čvančara T.",
+      "detail": "sub_in: Jankto J.; sub_out: Čvančara T.",
+      "raw_text": "Právě dochází ke střídání. Tomáš Čvančara opouští hrací plochu. Místo něj se do hry zapojí Jakub Jankto (Sparta Praha)."
+    },
+    {
+      "minute": "71'",
+      "side": "home",
+      "event_type": "substitution",
+      "player": "Kairinen K.",
+      "detail": "sub_in: Laci Q.; sub_out: Kairinen K.",
+      "raw_text": "Hlavní sudí právě svým gestem povoluje střídání. Kaan Kairinen se s dnešním zápasem rozloučí, na jeho místo naskočí Qazim Laci (Sparta Praha)."
+    },
+    {
+      "minute": "71'",
+      "side": "away",
+      "event_type": "substitution",
+      "player": "Ševčík M.",
+      "detail": "sub_in: Fousek A.; sub_out: Ševčík M.",
+      "raw_text": "Nastal čas pro vystřídání. Michal Ševčík v dnešním zápase dál pokračovat nebude. Do hry jde Adam Fousek (Zbrojovka Brno)."
+    },
+    {
+      "minute": "82'",
+      "side": "home",
+      "event_type": "substitution",
+      "player": "Wiesner T.",
+      "detail": "sub_in: Mejdr J.; sub_out: Wiesner T.",
+      "raw_text": "Na řadu přišlo střídání. Tomáš Wiesner je stažen, místo něj na hřiště nastoupí Jan Mejdr (Sparta Praha)."
+    },
+    {
+      "minute": "82'",
+      "side": "home",
+      "event_type": "substitution",
+      "player": "Kuchta J.",
+      "detail": "sub_in: Mabil A.; sub_out: Kuchta J.",
+      "raw_text": "Následuje avizované střídání. Zatímco hřiště opouští Jan Kuchta, trenér Brian Priske uděluje poslední strategické pokyny hráči, který na trávník za kratičký okamžik naběhne. Tím je Awer Mabil (Sparta Praha)."
+    },
+    {
+      "minute": "85'",
+      "side": "away",
+      "event_type": "substitution",
+      "player": "Divíšek J.",
+      "detail": "sub_in: Rogožan L.; sub_out: Divíšek J.",
+      "raw_text": "Nyní je na řadě střídání. Josef Divíšek jde ze hřiště a místo něj si zahraje Lukáš Rogožan (Zbrojovka Brno)."
+    },
+    {
+      "minute": "88'",
+      "side": "away",
+      "event_type": "yellow_card",
+      "player": "Šural J.",
+      "detail": "reason: Podražení",
+      "raw_text": "Žlutou kartu po nešetrném zákroku na hráče soupeře obdržel Jakub Šural (Zbrojovka Brno)."
+    },
+    {
+      "minute": "89'",
+      "side": "home",
+      "event_type": "yellow_card",
+      "player": "Jankto J.",
+      "detail": "reason: Nesportovní chování",
+      "raw_text": "Jakub Jankto (Sparta Praha) obdržel žlutou kartu za nemístnou kritiku výroku rozhodčího. Z výrazu tváře sudího a razancí se kterou vytáhl kartu soudím, že muže být rád za žlutou barvu kartónku."
+    },
+    {
+      "minute": "89'",
+      "side": "home",
+      "event_type": "yellow_card",
+      "player": "Sadílek L.",
+      "detail": "reason: Nesportovní chování",
+      "raw_text": "Do debaty s rozhodčím se dostal Lukáš Sadílek (Sparta Praha). A zřejmě to nebyla příliš přátelská řeč, protože vidí žlutou kartu."
+    }
+  ]
+}
