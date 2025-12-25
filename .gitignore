@@ -1,0 +1,29 @@
+# OS / IDE
+.DS_Store
+.idea/
+.vscode/
+
+# envs
+.venv/
+.env
+
+# python
+__pycache__/
+*.pyc
+
+# training outputs / artifacts
+runs*/
+**/runs*/
+**/checkpoint-*/
+**/*.safetensors
+**/*.bin
+**/*.pt
+**/*.pth
+**/*.npy
+
+# notebooks junk
+.ipynb_checkpoints/
+
+# scraped dumps / outputs
+data_extraction_and_reporting/out/
+data_extraction_and_reporting/**/xhr_dump/
